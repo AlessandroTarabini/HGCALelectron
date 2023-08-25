@@ -1,0 +1,7 @@
+electrons/*.pdf
+*electrons/DNNmodels
+electrons/*.png
+electrons/*.py
+electrons/condor
+python
+env.yml
